@@ -1,4 +1,4 @@
-﻿# File objective
+#  File objective
 
 > This application is designed to serve as a cash flow management tool with a 12-month forecast. It features control columns, customizable and automatic adjustments for past, current, or future projections and provisions. Additionally, it includes control tables for statement files and enables the extraction in formats such as XLS, CSV, and PDF.
 
@@ -10,7 +10,7 @@
 
 - [x] Some VBA worksheet triggers have been left out. Check the files directly
 
-- [x]  Some VBA Sub or Functions have been left out. Check the file directly
+- [x] Some VBA Sub or Functions have been left out. Check the file directly
 
 ## Update notes
 
@@ -256,4 +256,3 @@ End Sub
     0
 )
 ```
-
