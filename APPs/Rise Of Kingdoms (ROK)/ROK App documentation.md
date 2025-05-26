@@ -408,13 +408,13 @@ In these sheets you can visualize the date easily and change the goals if that i
 > 
 > On the second graphic (on the right) it shows easily the proportions of each bin and the amounts there.
 
-<img title="1.9" src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/Images/Picture1.jpg?raw=true" alt="7.7" data-align="center">
+<img title="1.9" src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture1.jpg?raw=true" alt="7.7" data-align="center">
 
 #### T4 / T5 kills (imported)
 
 > Works the same as 'achieved or not requirements' but this for kills, the only difference is that the tax of players in that rank is also shown as percentage here, so one can relate the amount of kills in that bin and the amount of kills.
 
-<img title="1.8" src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/Images/Picture2.jpg?raw=true" alt="7.7" data-align="center">
+<img title="1.8" src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture2.jpg?raw=true" alt="7.7" data-align="center">
 
 ## Sheet: Hall of heros, PRE KVK-STAT, Old CP and Payment, Zering Register
 
@@ -500,7 +500,7 @@ It is used by:
 
 These columns shall be copied from the pre kvk scan and pasted here as text. If any ID or power was copied as a blank value, the indicators above will be above 0.
 
-<img title="" src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/Images/Picture3.jpg?raw=true" alt="7.7" data-align="center">
+<img title="" src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture3.jpg?raw=true" alt="7.7" data-align="center">
 
 ### About the Red columns
 
