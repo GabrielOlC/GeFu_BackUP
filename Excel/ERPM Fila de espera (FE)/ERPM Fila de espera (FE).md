@@ -1,4 +1,4 @@
-﻿# File objective
+# File objective
 
 > This app should assist the individual responsible for packing the products in understanding the details of each purchase and ensuring items are dispatched correctly. It minimizes errors related to product quantity, color, or type by utilizing visual and auditory Poka Yoke techniques. 
 > Given that the packer also determines the prices, the app provides insights into profit and expenses, as well as records of the product's maximum weight, batch profit, and customizable profit indicators in color ranges. 
@@ -49,6 +49,10 @@
 - [x] No dashboard dedicado:
   - Adicionar célula para verificar se o valor da Shopee é igual ao valor calculado.
   - Automatizar a equação usada para este cálculo (o sistema deve pegar os valores de unidade atualizados).
+
+---
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture4.jpg?raw=true)
 
 ---
 
@@ -1808,4 +1812,3 @@ Sub WBConnectionDesconect()
 End Sub
 
 ```
-

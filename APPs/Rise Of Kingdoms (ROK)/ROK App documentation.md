@@ -36,6 +36,14 @@
 
 ---
 
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture10.jpg?raw=true)
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture11.jpg?raw=true)
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture12.jpg?raw=true)
+
+---
+
 # About Source files and queries for Report
 
 The data is downloaded to the excel through M and in order to the code work, the source files need:

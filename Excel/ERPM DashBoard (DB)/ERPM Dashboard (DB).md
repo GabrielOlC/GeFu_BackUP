@@ -27,6 +27,12 @@
 
 ---
 
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture5.jpg?raw=true)
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture6.jpg?raw=true)
+
+---
+
 # ⚙️VBA
 
 ## Buttons

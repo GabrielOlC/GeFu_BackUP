@@ -1,4 +1,4 @@
-﻿# File objective
+# File objective
 
 > This summarizes all reports available on Shopee, providing insights into any Sold IDs that haven't been properly paid for any reason, specialy if "antecipa" is on. It also manages the Dispute IDs and indicates whether they have been resolved or not.
 
@@ -13,6 +13,12 @@
 ## Update notes
 
 * [ ] Integrate it with FE to calculate the value loss of 'null' and if the product was or not returned to the store intact (tho it usually never come back)
+
+---
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture8.jpg?raw=true)
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture9.jpg?raw=true)
 
 ---
 
@@ -1378,4 +1384,3 @@ Dim dataObj As New MSForms.DataObject
 End Function
 
 ```
-

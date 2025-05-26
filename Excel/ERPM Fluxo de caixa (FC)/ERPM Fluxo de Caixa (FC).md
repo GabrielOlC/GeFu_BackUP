@@ -1,4 +1,4 @@
-#  File objective
+# File objective
 
 > This application is designed to serve as a cash flow management tool with a 12-month forecast. It features control columns, customizable and automatic adjustments for past, current, or future projections and provisions. Additionally, it includes control tables for statement files and enables the extraction in formats such as XLS, CSV, and PDF.
 
@@ -23,6 +23,10 @@
 - [ ] Criar uma rotina para zerar todos os valores e formatos variáveis da planilha (não os tópicos, manter manual ou colocar opção de apagar ou n)
 
 - [ ] Adicionar modulo de previsão com charts
+
+---
+
+![](https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.Images/Picture7.jpg?raw=true)
 
 ---
 
