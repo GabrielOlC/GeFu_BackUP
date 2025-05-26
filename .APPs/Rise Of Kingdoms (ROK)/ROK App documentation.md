@@ -408,13 +408,13 @@ In these sheets you can visualize the date easily and change the goals if that i
 > 
 > On the second graphic (on the right) it shows easily the proportions of each bin and the amounts there.
 
-<img src="file:///D:/gabri/Desktop/Git/GeneralFunctionsBackUP/Excel/Rise%20Of%20Kingdoms%20(ROK)/md%20Images/Picture1.jpg" title="1.9" alt="7.7" data-align="center">
+<img src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.APPs/Rise%20Of%20Kingdoms%20(ROK)/md%20Images/Picture1.jpg?raw=true" title="1.9" alt="7.7" data-align="center">
 
 #### T4 / T5 kills (imported)
 
 > Works the same as 'achieved or not requirements' but this for kills, the only difference is that the tax of players in that rank is also shown as percentage here, so one can relate the amount of kills in that bin and the amount of kills.
 
-<img src="file:///D:/gabri/Desktop/Git/GeneralFunctionsBackUP/Excel/Rise%20Of%20Kingdoms%20(ROK)/md%20Images/Picture2.jpg" title="1.8" alt="7.7" data-align="center">
+<img src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.APPs/Rise%20Of%20Kingdoms%20(ROK)/md%20Images/Picture2.jpg?raw=true" title="1.8" alt="7.7" data-align="center">
 
 ## Sheet: Hall of heros, PRE KVK-STAT, Old CP and Payment, Zering Register
 
@@ -500,7 +500,7 @@ It is used by:
 
 These columns shall be copied from the pre kvk scan and pasted here as text. If any ID or power was copied as a blank value, the indicators above will be above 0.
 
-![5](file:///D:/gabri/Desktop/Git/GeneralFunctionsBackUP/Excel/Rise%20Of%20Kingdoms%20(ROK)/md%20Images/Picture3.jpg "1")
+<img src="https://github.com/GabrielOlC/GeFu_BackUP/blob/main/.APPs/Rise%20Of%20Kingdoms%20(ROK)/md%20Images/Picture3.jpg?raw=true" alt="7.7" data-align="center">
 
 ### About the Red columns
 
